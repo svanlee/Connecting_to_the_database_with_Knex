@@ -14,7 +14,7 @@ Question 2
 
 Question 3
   What is an example of information typically stored in an environment variable?
-    The name of the developer who created the database
+  * The name of the developer who created the database
     The make and model of the server
     The instructions of how to access the database
-  * Database variables for different instances
+    Database variables for different instances
