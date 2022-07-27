@@ -1,9 +1,9 @@
 Question 1
   What are environment variables?
-  * Variables that persist from session to session on a browser 
-    Variables set outside of a program, normally on the server
-    Variables that only exist under certain conditions
-    Variables that change based on user input
+  * Variables that persist from session to session on a browser <br /> 
+    Variables set outside of a program, normally on the server <br />
+    Variables that only exist under certain conditions <br />
+    Variables that change based on user input <br /> 
 
 Question 2
   Why are environment variables useful?
